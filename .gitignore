@@ -3,4 +3,6 @@ node_modules/
 
 # script directories
 scripts/*
+scripts/missing-locales
+scripts/missing-locales/*
 
