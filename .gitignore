@@ -2,5 +2,5 @@
 node_modules/
 
 # script directories
-scripts/
+scripts/*
 
