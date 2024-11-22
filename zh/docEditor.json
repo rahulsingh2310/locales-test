@@ -1,0 +1,21 @@
+{
+  "font_size": "字体大小",
+  "text_small": "文字小",
+  "text_medium": "文本媒介",
+  "text_big": "文字大",
+  "bold": "大胆",
+  "italic": "斜体的",
+  "underline": "下划线",
+  "text_alignment": "文本对齐方式",
+  "left_align": "左对齐",
+  "center_align": "居中对齐",
+  "right_align": "右对齐",
+  "justify_align": "对齐方式",
+  "unordered_list": "无序列表",
+  "ordered_list": "有序列表",
+  "increase_indent": "增加缩进量",
+  "decrease_indent": "减少缩进",
+  "insert_edit_link": "插入/编辑链接",
+  "open_emoji_picker": "打开表情符号选择器",
+  "add_equation": "添加公式"
+}

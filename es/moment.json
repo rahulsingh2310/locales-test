@@ -1,0 +1,19 @@
+{
+  "future": "en {{count}}",
+  "second": "1s",
+  "seconds": "{{count}}s",
+  "minute": "1m",
+  "minutes": "{{count}}m",
+  "hour": "1h",
+  "hours": "{{count}}h",
+  "day": "1d",
+  "days": "{{count}}d",
+  "a_week": "una semana",
+  "weeks": "{{count}} semanas",
+  "month": "1mes",
+  "months": "{{count}}meses",
+  "year": "1a",
+  "years": "{{count}}a",
+  "LLLL_long_date_format": "Haz, MMM AAAA hh:mm a",
+  "LL_long_date_format": "Haz, MMM AAAA"
+}

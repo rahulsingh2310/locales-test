@@ -1,0 +1,11 @@
+{
+  "des_grades_label": "Distribución de {{label, lowercase}} entre grados",
+  "des_transdisciplinary_label": "Distribución de {{label, lowercase}} entre los temas transdisciplinarios",
+  "distribution_transdisciplinary_descriptors": "Distribución de descriptores de los temas transdisciplinarios (áreas de enfoque) entre los grados",
+  "theme_descriptors": "Descriptores de los temas",
+  "poi_insight": "Métricas de programa de indagación",
+  "transdisciplinary_descriptors": "Descriptores de los temas transdisciplinarios (áreas de enfoque) entre los grados",
+  "grades_label": "{{label}} a través de los grados",
+  "transdisciplinary_label": "{{label}} a través de los temas interdisciplinarios",
+  "subject_grades_label": "Asignaturas a través de los grados"
+}

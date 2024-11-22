@@ -1,0 +1,21 @@
+{
+  "text_big": "Metin büyük",
+  "text_small": "Metin küçük",
+  "text_medium": "Metin orta boy",
+  "font_size": "Font büyüklüğü",
+  "bold": "Kalın",
+  "italic": "İtalik",
+  "text_alignment": "Metin hizalama",
+  "underline": "Altı çizili",
+  "justify_align": "Metni blok hizalayın",
+  "center_align": "Metni ortalayın",
+  "right_align": "Metni sağa hizalayın",
+  "left_align": "Metni sola hizalayın",
+  "ordered_list": "Sıralı liste",
+  "decrease_indent": "Girintiyi azaltın",
+  "unordered_list": "Sıralanmamış liste",
+  "increase_indent": "Girintiyi artırın",
+  "add_equation": "Denklem ekleyin",
+  "insert_edit_link": "Bağlantı ekleyin/Bağlantıyı düzenleyin",
+  "open_emoji_picker": "Emoji seçiciyi açın"
+}

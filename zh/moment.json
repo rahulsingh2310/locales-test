@@ -1,0 +1,19 @@
+{
+  "future": "在 {{count}}",
+  "second": "1s",
+  "seconds": "{{count}}s",
+  "minute": "1分钟",
+  "minutes": "{{count}}m",
+  "hour": "1小时",
+  "hours": "{{count}}h",
+  "day": "1d",
+  "days": "{{count}}d",
+  "a_week": "一周",
+  "weeks": "{{count}} 周",
+  "month": "1个月",
+  "months": "{{count}}月",
+  "year": "1y",
+  "years": "{{count}}年",
+  "LLLL_long_date_format": "日, 月 ，年 hh:mm a",
+  "LL_long_date_format": "日， 月， 年"
+}

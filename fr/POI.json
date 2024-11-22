@@ -1,0 +1,11 @@
+{
+  "poi_insight": "Aperçu des POI",
+  "theme_descriptors": "Descripteurs de thème",
+  "distribution_transdisciplinary_descriptors": "Répartition des descripteurs transdisciplinaires (domaines d’intervention) entre les années d’études",
+  "des_grades_label": "Distribution de {{label, lowercase}} entre les grades",
+  "des_transdisciplinary_label": "Distribution de {{label, lowercase}} entre les thèmes transdisciplinaires",
+  "transdisciplinary_descriptors": "Descripteurs transdisciplinaires (domaines d’intérêt) d’une année d’études à l’autre",
+  "grades_label": "{{label}} pour toutes les années",
+  "transdisciplinary_label": "{{label}} sur des thèmes transdisciplinaires",
+  "subject_grades_label": "Matières de toutes les années"
+}

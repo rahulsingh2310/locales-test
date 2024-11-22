@@ -1,0 +1,11 @@
+{
+  "poi_insight": "Informações de POI",
+  "des_transdisciplinary_label": "Distribuição de {{label, lowercase}} em temas transdisciplinares",
+  "theme_descriptors": "Descritores de tema",
+  "distribution_transdisciplinary_descriptors": "Distribuição de descritores transdisciplinares (áreas de foco) entre séries",
+  "des_grades_label": "Distribuição de {{label, lowercase}} entre as séries",
+  "transdisciplinary_descriptors": "Descritores transdisciplinares (áreas de foco) entre séries",
+  "grades_label": "{{label}} nas séries",
+  "transdisciplinary_label": "{{label}} em temas transdisciplinares",
+  "subject_grades_label": "Disciplinas entre séries"
+}

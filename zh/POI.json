@@ -1,0 +1,11 @@
+{
+  "poi_insight": "POI建议",
+  "theme_descriptors": "主题描述",
+  "distribution_transdisciplinary_descriptors": "超学科描述（重点领域）在各年级的分布情况",
+  "des_grades_label": "{{label, lowercase}}在各年级的分布情况",
+  "des_transdisciplinary_label": "{{label, lowercase}}在超学科主题中的分布情况",
+  "transdisciplinary_descriptors": "跨年级的超学科描述（重点领域）",
+  "grades_label": "{{label}}跨年级",
+  "subject_grades_label": "各年级的科目",
+  "transdisciplinary_label": "{{label}}跨越超学科的主题"
+}

@@ -1,0 +1,19 @@
+name: "Missing-locales"
+on:
+  pull_request:
+    types: [opened, ready_for_review]
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  missing_locales:
+    if: github.event.pull_request.draft == false
+    uses: ./.github/workflows/static-analysis.yml
+    with:
+      environment: ${{ inputs.environment }}
+    secrets: inherit

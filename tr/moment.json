@@ -1,0 +1,19 @@
+{
+  "future": "{{count}} içinde",
+  "second": "1sn",
+  "seconds": "{{count}}sn",
+  "minute": "1d",
+  "minutes": "{{count}}dk",
+  "hour": "1s",
+  "hours": "{{count}}sa",
+  "day": "1g",
+  "days": "{{count}}gün",
+  "a_week": "bir hafta",
+  "weeks": "{{count}} hafta",
+  "month": "1ay",
+  "months": "{{count}}a",
+  "year": "1y",
+  "years": "{{count}}y",
+  "LLLL_long_date_format": "GÜN AY YIL sa:dk a",
+  "LL_long_date_format": "GÜN, AY YIL"
+}

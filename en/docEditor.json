@@ -1,0 +1,21 @@
+{
+  "font_size": "Font size",
+  "text_small": "Text small",
+  "text_medium": "Text medium",
+  "text_big": "Text big",
+  "bold": "Bold",
+  "italic": "Italic",
+  "underline": "Underline",
+  "text_alignment": "Text alignment",
+  "left_align": "Left align",
+  "center_align": "Center align",
+  "right_align": "Right align",
+  "justify_align": "Justify align",
+  "unordered_list": "Unordered list",
+  "ordered_list": "Ordered list",
+  "increase_indent": "Increase indent",
+  "decrease_indent": "Decrease indent",
+  "insert_edit_link": "Insert/Edit link",
+  "open_emoji_picker": "Open emoji picker",
+  "add_equation": "Add equation"
+}

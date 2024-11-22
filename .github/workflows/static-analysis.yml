@@ -1,0 +1,39 @@
+name: "___Utils :: StaticAnalysis"
+on:
+  workflow_call:
+    inputs:
+      environment:
+        required: true
+        type: string
+      branch_name:
+        type: string
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  find_missing_locales:
+    runs-on: toddle-misc
+    container:
+      image: node:14
+      options: --user 1000:1000
+    name: Finding Missing Locales
+    steps:
+      - name: "Checkout: ${{ inputs.branch_name }}"
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ inputs.branch_name }}
+          token: ${{ secrets.GLOBAL_GITHUB_TOKEN }}
+          submodules: recursive
+      - name: Install Dependencies
+        run: |
+          cd scripts/missing-locales
+          npm i
+      - name: Missing Locales Check
+        run: |
+          cd scripts/missing-locales
+          npm run missing-locales

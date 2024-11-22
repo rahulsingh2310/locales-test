@@ -1,0 +1,15 @@
+{
+  "name": "missing-locales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "missing-locales": "node find-i18n-missing-locales.js error"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.5"
+  },
+  "author": "",
+  "license": "ISC"
+}

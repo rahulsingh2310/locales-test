@@ -1,0 +1,19 @@
+{
+  "weeks": "{{count}} semanas",
+  "year": "1a",
+  "future": "em {{count}}",
+  "second": "1s",
+  "seconds": "{{count}}s",
+  "minute": "1m",
+  "minutes": "{{count}}m",
+  "hour": "1h",
+  "hours": "{{count}}h",
+  "day": "1d",
+  "days": "{{count}}d",
+  "a_week": "uma semana",
+  "LLLL_long_date_format": "Sim, MMM AAAA hh:mm a",
+  "LL_long_date_format": "Faça, MMM AAAA",
+  "month": "1 mês",
+  "months": "{{count}} meses",
+  "years": "{{count}}y"
+}

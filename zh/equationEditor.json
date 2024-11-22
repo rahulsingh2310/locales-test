@@ -1,0 +1,14 @@
+{
+  "equation_editor_heading": "公式编辑器",
+  "equation_editor_not_compatible": "请更新您的浏览器以继续使用公式编辑器。",
+  "copy_not_supported": "此浏览器不支持复制功能。<br>请使用 Google Chrome。",
+  "mathematics_formula": "方程",
+  "basic": "基本",
+  "advance": "进展",
+  "sets_matrices": "集合和矩阵",
+  "greek": "希腊语",
+  "english": "英语",
+  "chemistry": "化学",
+  "insert": "插入",
+  "beta": "试用版"
+}

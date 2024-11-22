@@ -1,0 +1,11 @@
+{
+  "poi_insight": "Sorgulama Programı Detayları",
+  "theme_descriptors": "Tema Tanımlayıcıları",
+  "distribution_transdisciplinary_descriptors": "Sınıf seviyeleri bazında disiplinler üstü tanımlayıcıların (odak alanı) dağılımı",
+  "des_grades_label": "Sınıf seviyeleri bazında {{label, lowercase}} dağılımı",
+  "des_transdisciplinary_label": "Disiplinler üstü temalar bazında {{label, lowercase}} dağılımı",
+  "transdisciplinary_descriptors": "Sınıf seviyeleri bazında disiplinler üstü tanımlayıcılar (odak alanları)",
+  "grades_label": "Sınıf seviyeleri bazında {{label}}",
+  "transdisciplinary_label": "Disiplinler üstü temalar bazında {{label}}",
+  "subject_grades_label": "Sınıf seviyeleri bazında dersler"
+}

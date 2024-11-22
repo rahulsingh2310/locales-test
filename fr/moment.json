@@ -1,0 +1,19 @@
+{
+  "future": "dans{{count}}",
+  "weeks": "{{count}} semaines",
+  "LLLL_long_date_format": "Fais, MMM AAAA hh : mm a",
+  "second": "1s",
+  "seconds": "{{count}}s",
+  "minute": "1m",
+  "minutes": "{{count}}m",
+  "hour": "1h",
+  "hours": "{{count}}h",
+  "day": "1j",
+  "days": "{{count}} d",
+  "a_week": "une semaine",
+  "month": "1mois",
+  "months": "{{count}} mois",
+  "year": "1a",
+  "years": "{{count}} a",
+  "LL_long_date_format": "Fais, MMM,AAAA"
+}

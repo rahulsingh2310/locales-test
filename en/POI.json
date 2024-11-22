@@ -1,0 +1,11 @@
+{
+  "poi_insight": "POI Insight",
+  "theme_descriptors": "Theme Descriptors",
+  "distribution_transdisciplinary_descriptors": "Distribution of transdisciplinary descriptors (focus areas) across grades",
+  "des_grades_label": "Distribution of {{label, lowercase}} across grades",
+  "des_transdisciplinary_label": "Distribution of {{label, lowercase}} across transdisciplinary themes",
+  "transdisciplinary_descriptors": "Transdisciplinary descriptors (focus areas) across grades",
+  "grades_label": "{{label}} across grades",
+  "transdisciplinary_label": "{{label}} across transdisciplinary themes",
+  "subject_grades_label": "Subjects across grades"
+}
