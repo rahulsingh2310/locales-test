@@ -52,3 +52,5 @@
 const files = process.argv.slice(2);
 
 console.log({ files });
+
+process.exit(1);
