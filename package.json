@@ -14,7 +14,7 @@
     "lint-staged": "^15.2.11"
   },
   "lint-staged": {
-    "./languages/**/*.{json}": [
+    "./languages/**/*.json": [
       "node ./scripts/validate-key.js"
     ]
   }
