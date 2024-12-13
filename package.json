@@ -8,12 +8,12 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "lint-staged": {
-    "languages/**/*.{json}": [
-      "node ./scripts/validate-key.js"
-    ]
-  },
   "devDependencies": {
     "lint-staged": "^15.2.11"
+  },
+  "lint-staged": {
+    "./languages/**/*.{json}": [
+      "node ./scripts/validate-key.js"
+    ]
   }
 }
