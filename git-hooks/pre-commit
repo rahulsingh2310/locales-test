@@ -1,0 +1,25 @@
+#!/bin/sh
+# export PATH="$PATH:/usr/local/bin:/usr/local"
+# export CI_JOB_TOKEN=$CI_JOB_TOKEN
+
+# # Export Git hook params
+# export GIT_PARAMS="$*"
+
+# Run npm script for eslint-staged
+echo "running pre-commit hook > npm run -s precommit (node `node -v`):"
+npm run -s precommit || {
+  echo
+  echo "pre-commit hook failed"
+  exit 1
+}
+echo
+
+## Run Script for missing-deps-check
+#echo "Checking for missing dependencies: "
+#npm run -s check-missing-deps error || {
+#    echo "pre-commit hook failed (add --no-verify to bypass)"
+#    exit 1
+#}
+echo
+
+echo "Pre-commit hook script executed successfully."
