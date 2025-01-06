@@ -1,1 +1,1 @@
-Locales updated
+Locales updated v1
