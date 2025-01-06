@@ -1,1 +1,1 @@
-Locales
+Locales updated
